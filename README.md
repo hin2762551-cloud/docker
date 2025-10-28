@@ -40,7 +40,7 @@ wget https://raw.githubusercontent.com/issarapong/docker/main/install.sh
 ### 2. กำหนดสิทธิ์การเรียกใช้
 
 ```bash
-chmod +x install.sh
+chmod +x install.shchmod +x install.sh
 ```
 
 ### 3. เรียกใช้สคริปต์

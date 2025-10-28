@@ -1,4 +1,4 @@
-# Docker Installation Script
+./install.sh# Docker Installation Script
 
 สคริปต์อัตโนมัติสำหรับติดตั้ง Docker และ Docker Compose บนระบบปฏิบัติการ Linux
 
